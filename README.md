@@ -65,5 +65,6 @@ My goal is to gain **practical experience** and grow step by step as a backend d
 
 ### 📫 Contact
 
-- 📍 Based in Rzeszów, Poland  
+- 📍 Based in Poland (open to remote opportunities)
+ 
 - ✉️ Email: [coffymacochino@gmail.com](mailto:coffymacochino@gmail.com)
